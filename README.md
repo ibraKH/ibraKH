@@ -1,4 +1,4 @@
-# Hello there :wave:
+# Hello World :wave:
 
 # About me :loudspeaker: :
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&lines=My+name+is+Ibrahim+from+Taif+Saudi+Arabia%2C+;I+enjoy+coding+and+solving+problems.)](https://git.io/typing-svg)
