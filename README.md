@@ -1,32 +1,48 @@
-# Hello World :wave:
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=8245CF&random=false&width=200&lines=Hi+There!%F0%9F%91%8B;+I'm+Ibrahim" />
+</h1>
 
-# About me :loudspeaker: :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&lines=My+name+is+Ibrahim+from+Taif+Saudi+Arabia%2C+;I+enjoy+coding+and+solving+problems.)](https://git.io/typing-svg)
-- Fullstack Developer
-- Fresh Computer Engineering Graduate
+<br/>
+
+<div align="center">
+ 
+Just graduated in Computer Engineering and now diving into the exciting mix of web development, Cloud tech, and Machine Learning. Here to expand my skills in cloud services and explore the cool world of ML frameworks. Join me on this learning ride, and let's connect for some collaborative coding adventures!  🚀
+
+</div>
+ <br/>
+<div align="center"> 
+  <a href="mailto:devibrakh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://ibra.ws" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahimalharthi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+  <br/>
+ 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,astro,arduino,html,css,vscode,github,figma,aws,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,angular,cpp,svelte,mysql,postgresql,figma" /><br>
+</div>
+  <br/>
+
+<hr/>
 
 
 
-### Tech :
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=ibraKH&theme=radical&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraKH&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![html](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![html](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![html](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![html](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![html](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![html](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![html](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![html](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![html](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![html](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![html](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![html](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
-#
-![html](https://github-readme-stats.vercel.app/api/top-langs/?username=ibraKH)
-#
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ibraKH&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<hr/>
 
 
