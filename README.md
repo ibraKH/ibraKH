@@ -6,7 +6,7 @@
 
 <div align="center">
  
-Just graduated in Computer Engineering and now diving into the exciting mix of web development, Cloud tech, and Machine Learning. Here to expand my skills in cloud services and explore the cool world of ML frameworks. Join me on this learning ride, and let's connect for some collaborative coding adventures!  🚀
+Master’s student in Machine Learning & Computer Vision with a background in Computer Engineering. Passionate about blending web development, cloud tech, and AI from building full-stack apps with Node.js/React to exploring computer vision, deep learning, and databases. Always curious, always learning, and excited to team up on projects that push the boundaries of AI and software engineering. 🚀
 
 </div>
  <br/>
